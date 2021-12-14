@@ -8,10 +8,6 @@ This is a small project about management of restaurant.
 Visual studio code  Version 1.61.0
 Python
 
-# Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-
 
 # Contact
 
